@@ -6,7 +6,7 @@ Music is presented as fingerings suitable for baritone horn beginners in a clear
 
 When writing out the music, use new lines as appropriate to make the representation more readable. For each note's name, it should be followed by 3 spaces (example `D   `), unless the note is sharp or flat, in which case add 2 spaces (example: `F#  `). In this way each note plus its spacing will take up 4 characters so that it exactly matches the spacing of the three-circle fingering plus one separator space that appears above it, for example:
 ```
-○●● ○●○ ●●○ ○●○ ○●● ○●● ○●●  
+○●○ ●●○ ●○● ●●○ ○●○ ○●○ ○●○  
 F#  E   D   E   F#  F#  F#
 ```
 Before giving a response, always double-check:
